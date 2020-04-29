@@ -1,3 +1,6 @@
 [submodule "build_debug"]
 	path = build_debug
 	url = git@github.com:CathalHarte/build_vscode_debug_c.git
+[submodule "unit_test_helpers"]
+	path = unit_test_helpers
+	url = git@github.com:CathalHarte/unit_test_helpers.git

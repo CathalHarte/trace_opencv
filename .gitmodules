@@ -1,0 +1,3 @@
+[submodule "build_debug"]
+	path = build_debug
+	url = git@github.com:CathalHarte/build_vscode_debug_c.git
